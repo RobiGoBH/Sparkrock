@@ -1,3 +1,5 @@
 .claude/
 AttendanceSystem/AttendanceSystem.API/bin/
 AttendanceSystem/AttendanceSystem.API/obj/
+AttendanceSystem/AttendanceSystem.Tests/bin/
+AttendanceSystem/AttendanceSystem.Tests/obj/
